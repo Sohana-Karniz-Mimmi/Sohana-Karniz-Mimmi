@@ -30,3 +30,8 @@ I am a Frontend Developer, I am learning and applying the latest technologies an
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohana-karniz-mimmi&show_icons=true&locale=en" alt="sohana-karniz-mimmi" /></p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohana-karniz-mimmi&show_icons=true&locale=en" alt="sohana-karniz-mimmi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohana-karniz-mimmi&" alt="sohana-karniz-mimmi" /></p>
+
