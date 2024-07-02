@@ -14,4 +14,6 @@ I am a Frontend Developer, I am learning and applying the latest technologies an
 ✅ Tailwind / Bootstrap <br>
 ✅ HTML5 / CSS3 <br>
 
-<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100094102783679) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/Sohana_Karniz)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shohana-akter-mimmi/)  
+
