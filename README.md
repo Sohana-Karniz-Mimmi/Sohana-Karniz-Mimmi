@@ -11,10 +11,5 @@ I am a Frontend Developer, I am learning and applying the latest technologies an
 ## 👨‍💻 Skills & Experiance: 
 ✅ React <br> 
 ✅ JavaScript <br>
-✅ HTML5 / CSS3 <br>
 ✅ Tailwind / Bootstrap <br>
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sohana-Karniz-Mimmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shohana-akter-mimmi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100094102783679)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sohana_Karniz)  
-
+✅ HTML5 / CSS3 <br>
