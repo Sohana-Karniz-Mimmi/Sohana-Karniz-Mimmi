@@ -1,7 +1,9 @@
 
+![A passionate Frontend Developer from Bangladesh](https://i.ibb.co/RcBm7bG/Banner2.png)
+
+
 Hey 👋, good to see you😎 I'm Shohana Akter
 #### A passionate Frontend Developer from Bangladesh
-![A passionate Frontend Developer from Bangladesh](https://i.ibb.co/RcBm7bG/Banner2.png)
 
 I am a Frontend Developer, I am learning and applying the latest technologies and best practices in frontend web development. I have built multiple projects using React.js, Material UI, Tailwind CSS, and Node.js mongoDB, demonstrating my proficiency and creativity in frontend development.
 
