@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br />I'm Shohana Akter</h1>
-#### A passionate Frontend Developer from Bangladesh
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 I am a Frontend Developer, I am learning and applying the latest technologies and best practices in frontend web development. I have built multiple projects using React.js, Material UI, Tailwind CSS, and Node.js mongoDB, demonstrating my proficiency and creativity in frontend development.
 
