@@ -10,10 +10,7 @@
 I am a Frontend Developer, I am learning and applying the latest technologies and best practices in frontend web development. I have built multiple projects using React.js, Material UI, Tailwind CSS, and Node.js mongoDB, demonstrating my proficiency and creativity in frontend development. 
 
 ## 👨‍💻 Skills & Experiance: 
-✅ React <br> 
-✅ JavaScript <br>
-✅ Tailwind / Bootstrap <br>
-✅ HTML5 / CSS3 <br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,react,firebase,tailwind,bootstrap,html,css&perline=6)](https://skillicons.dev)
 
 ## ☎ Connect with me!
 <p align="left">
